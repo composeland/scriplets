@@ -1,4 +1,4 @@
-/// hello-scriplet.js
+/// hello.js
 (function() {
     console.log('Hello scriplet!');    
 })();
